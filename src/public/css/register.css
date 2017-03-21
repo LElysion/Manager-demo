@@ -1,0 +1,11 @@
+.login-formp{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 250px;
+}
+
+.register-line{
+	font-size: 25px;
+	color:#000;
+}
